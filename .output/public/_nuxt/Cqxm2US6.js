@@ -1,0 +1,1 @@
+import{M as n}from"./CUcWP0in.js";import{_ as e,s as t,u as s,o as c}from"./DiwLmCfW.js";const r={name:"Index",components:{Monument:n}};function a(m,p,_,u,f,d){const o=s("Monument");return c(),t(o)}const l=e(r,[["render",a]]);export{l as default};

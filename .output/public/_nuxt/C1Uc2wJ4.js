@@ -1,0 +1,1 @@
+import{_ as e}from"./BGtpOuoT.js";import{_ as n,s as t,u as s,o as a}from"./DiwLmCfW.js";const c={name:"Index",components:{Dead:e}};function _(r,p,m,d,f,i){const o=s("Dead");return a(),t(o)}const l=n(c,[["render",_]]);export{l as default};

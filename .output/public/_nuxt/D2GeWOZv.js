@@ -1,0 +1,1 @@
+import{_ as e}from"./ClWcJTXR.js";import{_ as o,s as t,o as s}from"./DiwLmCfW.js";const c={name:"index",components:{Veterans:e}};function r(_,a,p,m,f,i){const n=e;return s(),t(n)}const u=o(c,[["render",r]]);export{u as default};

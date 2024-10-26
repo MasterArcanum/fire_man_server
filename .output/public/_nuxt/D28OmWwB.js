@@ -1,0 +1,1 @@
+import{_ as o}from"./CLUNS4gP.js";import{_ as t,s as e,o as s}from"./DiwLmCfW.js";const c={name:"Index",components:{Patrons:o}};function r(_,a,p,m,f,d){const n=o;return s(),e(n)}const u=t(c,[["render",r]]);export{u as default};
